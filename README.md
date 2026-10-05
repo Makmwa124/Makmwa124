@@ -4,6 +4,7 @@ Data scientist and educator. I teach Python and data analytics with **real datas
 
 🌐 **[mathewkanalytics.com](https://www.mathewkanalytics.com/?utm_source=github&utm_medium=profile)**: 700+ free video lessons, downloadable notebooks and 150+ datasets. No sign-up.
 ▶️ **[YouTube: @KarMat-Analytics](https://www.youtube.com/@KarMat-Analytics?sub_confirmation=1)**
+📊 **[Kaggle notebooks](https://www.kaggle.com/makmwa124)**: A/B testing, customer churn, SQL, K-means clustering and more
 
 ### Free learning paths
 - [Data Analyst roadmap](https://www.mathewkanalytics.com/paths/data-analyst/?utm_source=github&utm_medium=profile): Python, pandas, SQL, charts and statistics
