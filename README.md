@@ -6,6 +6,10 @@ Data scientist and educator. I teach Python and data analytics with **real datas
 ▶️ **[YouTube: @KarMat-Analytics](https://www.youtube.com/@KarMat-Analytics?sub_confirmation=1)**
 📊 **[Kaggle notebooks](https://www.kaggle.com/makmwa124)**: A/B testing, customer churn, SQL, K-means clustering and more
 
+### 📚 My books
+- **[Python from Zero](https://mathewkariuki.gumroad.com/l/python-from-zero)**: a friendly, hands-on guide to writing your first real programs ([companion files](https://github.com/Makmwa124/python-from-zero))
+- **[Data Analytics with Python and Jupyter Notebook](https://mathewkariuki.gumroad.com/l/data-analytics-with-python)**: analyse real data with pandas, charts and statistics ([companion files](https://github.com/Makmwa124/python-analytics-book))
+
 ### Free learning paths
 - [Data Analyst roadmap](https://www.mathewkanalytics.com/paths/data-analyst/?utm_source=github&utm_medium=profile): Python, pandas, SQL, charts and statistics
 - [Business & Marketing Analytics](https://www.mathewkanalytics.com/paths/business-marketing-analyst/?utm_source=github&utm_medium=profile): RFM, cohorts, A/B tests, churn, funnels
